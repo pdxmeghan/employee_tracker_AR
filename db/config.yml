@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: emp_track
+
+test:
+  adapter: postgresql
+  database: emp_track_test
